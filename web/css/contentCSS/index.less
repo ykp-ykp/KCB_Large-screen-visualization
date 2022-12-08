@@ -8,14 +8,14 @@ li {
 }
 @font-face {
   font-family: electronicFont;
-  src: url(../../font/DS-DIGIT.TTF);
+  src: url(../../fonts/DS-DIGIT.TTF);
 }
 body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
   padding: 0;
   /*  背景图定位 / 背景图尺寸  cover 完全铺满容器  contain 完整显示在容器内 */
-  background: url(../images/bg.jpg) no-repeat #000;
+  // background: url(../images/bg.jpg) no-repeat #000;
   background-size: cover;
   /* 行高是字体1.15倍 */
   line-height: 1.15;
@@ -23,7 +23,7 @@ body {
 header {
   position: relative;
   height: 1.25rem;
-  background: url(../images/head_bg.png) no-repeat top center;
+  background: url(../../images/contentImg/head_bg.png) no-repeat top center;
   background-size: 100% 100%;
   h1 {
     font-size: 0.475rem;
@@ -41,25 +41,26 @@ header {
   }
 }
 .mainbox {
-  min-width: 1024px;
+  background: url(../../images/contentImg/bg.jpg);
+  // min-width: 1024px;
   max-width: 1920px;
   padding: 0.125rem 0.125rem 0;
-  display: flex;
+  // display: flex;
   .column {
-    flex: 3;
+    // flex: 3;
     &:nth-child(2) {
-      flex: 5;
-      margin: 0 0.125rem 0.1875rem;
+      // flex: 5;
+      // margin: 0 0.125rem 0.1875rem;
       overflow: hidden;
     }
   }
 }
 .panel {
   position: relative;
-  height: 3.875rem;
+  // height: 270px;
   border: 1px solid rgba(25, 186, 139, 0.17);
-  background: rgba(255, 255, 255, 0.04) url(../images/line\(1\).png);
-  padding: 0 0.1875rem 0.5rem;
+  background: rgba(255, 255, 255, 0.04);
+  padding: 0 0.1875rem 0.2rem;
   margin-bottom: 0.1875rem;
   &::before {
     position: absolute;
@@ -86,6 +87,8 @@ header {
     left: 0;
     bottom: 0;
     width: 100%;
+    background-color: rgba(5, 6, 4, 0);
+    border-top: none;
     &::before {
       position: absolute;
       bottom: 0;
@@ -109,16 +112,25 @@ header {
   }
 
   h2 {
+    position: relative;
     height: 0.6rem;
     line-height: 0.6rem;
-    text-align: center;
+    // text-align: center;
     color: #fff;
     font-size: 0.25rem;
     font-weight: 400;
     a {
       margin: 0 0.1875rem;
       color: #fff;
-      text-decoration: underline;
+      text-decoration: none;
+      left: 10%;
+    }
+    p{
+      display: inline;
+      margin: 0 0.125rem;
+      color: #fff;
+      text-decoration: none;
+      left: 10%;
     }
   }
   .chart {
@@ -192,11 +204,35 @@ header {
 .map {
   position: relative;
   height: 10.125rem;
+  h2 {
+    margin-right: 9rem;
+    z-index: 4;
+    position: relative;
+    height: 0.6rem;
+    line-height: 0.6rem;
+    // text-align: center;
+    color: #fff;
+    font-size: 0.25rem;
+    font-weight: 400;
+    a {
+      margin: 0 0.1875rem;
+      color: #fff;
+      text-decoration: none;
+      left: 10%;
+    }
+    p{
+      display: inline;
+      margin: 0 0.125rem;
+      color: #fff;
+      text-decoration: none;
+      left: 10%;
+    }
+  }
   .chart {
     position: absolute;
     top: 0;
     left: 0;
-    z-index: 5;
+    z-index: 3;
     height: 10.125rem;
     width: 100%;
   }
@@ -209,14 +245,14 @@ header {
     transform: translate(-50%, -50%);
     width: 6.475rem;
     height: 6.475rem;
-    background: url(../images/map.png) no-repeat;
+    background: url(../../images/contentImg/map.png) no-repeat;
     background-size: 100% 100%;
     opacity: 0.3;
   }
   .map2 {
     width: 8.0375rem;
     height: 8.0375rem;
-    background-image: url(../images/lbx.png);
+    background-image: url(../../images/contentImg/lbx.png);
     opacity: 0.6;
     animation: rotate 15s linear infinite;
     z-index: 2;
@@ -224,7 +260,7 @@ header {
   .map3 {
     width: 7.075rem;
     height: 7.075rem;
-    background-image: url(../images/jt.png);
+    background-image: url(../../images/contentImg/jt.png);
     animation: rotate1 10s linear infinite;
   }
 
@@ -246,12 +282,41 @@ header {
   }
 }
 
+// 上面是排版布局和echarts图表大小的排版
+////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////
+// 下面包含第一个图表的标题以及左侧菜单栏
+
+// 这个select标签来自index_vue.js中的template中的标签
+select{
+  border: 1px solid rgba(167,100,45, 1);
+  position: absolute;
+  color: white !important;
+  background-color: rgba(30, 43, 116, 0.1);
+  z-index: 2;
+  height: 1.5rem !important;
+  option{
+    font-size: .225rem;
+  }
+  option:hover{
+    background-color:rgba(47,137,207, 1)
+  }
+}
+
+
 @media screen and (max-width: 1024px) {
   html {
     font-size: 42px !important;
   }
 }
-@media screen and (min-width: 1920) {
+
+@media screen and (min-width: 1025px) {
+  span{
+    display: none !important;
+  }
+}
+
+@media screen and (min-width: 1920px) {
   html {
     font-size: 80px !important;
   }

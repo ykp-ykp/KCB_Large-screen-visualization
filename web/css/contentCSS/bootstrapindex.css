@@ -291,3 +291,11 @@
   gg{
     color:rgba(223, 238, 13, 0.945)
   }
+
+
+  .tittle{
+    position: absolute;
+    top: 0.50rem;
+    color: #fff;
+    font-size: 14px;
+  }

@@ -5,131 +5,154 @@
       <artifact name="Monitor_Center1:war exploded" />
     </artifacts-to-build>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="476b3566-fa07-435a-a7e4-9b2dcdf2596b" name="默认" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="476b3566-fa07-435a-a7e4-9b2dcdf2596b" name="默认" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/AdminLTE.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/AdminLTE.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/kcb.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/skins/_all-skins.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/skins/_all-skins.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/skins/skin-black-light.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/skins/skin-black-light.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/skins/skin-black.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/skins/skin-black.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/skins/skin-blue-light.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/skins/skin-blue-light.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/skins/skin-blue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/skins/skin-blue.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/skins/skin-green-light.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/skins/skin-green-light.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/skins/skin-green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/skins/skin-green.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/skins/skin-purple-light.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/skins/skin-purple-light.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/skins/skin-purple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/skins/skin-purple.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/skins/skin-red-light.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/skins/skin-red-light.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/skins/skin-red.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/skins/skin-red.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/skins/skin-yellow-light.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/skins/skin-yellow-light.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/skins/skin-yellow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/css/skins/skin-yellow.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/avatar04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/avatar2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/avatar3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/avatar5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/boxed-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/boxed-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/credit/american-express.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/credit/cirrus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/credit/mastercard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/credit/mestro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/credit/paypal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/credit/paypal2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/credit/visa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/default-50x50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/kcb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/kcb_logo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/kcb_logo2_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/photo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/photo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/photo3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/photo4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/touch-icon-ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/touch-icon-iphone.png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/touch-icon-iphone4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/user1-128x128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/user2-160x160.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/user3-128x128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/user4-128x128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/user5-128x128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/user6-128x128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/user7-128x128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/img/user8-128x128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/js/app.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/js/common_qyb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/js/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/js/pages/CustomerManagement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/js/pages/DeliveryCosts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/js/pages/GoodsSituation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/js/pages/Index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/js/pages/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/js/pages/OrderDistribute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/js/pages/OrderQuantity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dist/js/pages/StaffPerformance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/contentJS/index_data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/contentJS/index_vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/css/layui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/css/modules/code.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/css/modules/layer/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/css/modules/layer/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/css/modules/layer/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/css/modules/layer/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/css/modules/layer/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/css/modules/layer/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/font/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layui/layui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Monitor_Center1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Monitor_Center1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Monitor_Center1_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Monitor_Center1_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Monitor_Center1_war_exploded/bootstrapindex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Monitor_Center1_war_exploded/css/contentCSS/bootstrapindex.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Monitor_Center1_war_exploded/css/contentCSS/bootstrapindex.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Monitor_Center1_war_exploded/css/contentCSS/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Monitor_Center1_war_exploded/css/contentCSS/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Monitor_Center1_war_exploded/css/contentCSS/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Monitor_Center1_war_exploded/css/contentCSS/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Monitor_Center1_war_exploded/images/contentImg/line(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Monitor_Center1_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Monitor_Center1_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Monitor_Center1_war_exploded/js/contentJS/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Monitor_Center1_war_exploded/js/contentJS/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Monitor_Center1_war_exploded/monitor_index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Monitor_Center1_war_exploded/monitor_index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrapindex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/contentCSS/bootstrapindex.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/contentCSS/bootstrapindex.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/contentCSS/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/contentCSS/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/contentCSS/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/contentCSS/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/contentImg/line(1).png" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/contentImg/line.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/js/contentJS/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/js/contentJS/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/monitor_index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/monitor_index.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="19175881">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="css" value="2" />
-          <entry key="html" value="1" />
-          <entry key="js" value="2" />
-          <entry key="jsp" value="2" />
-          <entry key="xml" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CSS" value="2" />
-          <entry key="HTML" value="1" />
-          <entry key="JSP" value="2" />
-          <entry key="JavaScript" value="2" />
-          <entry key="XML" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="css" value="68" />
-          <entry key="js" value="29" />
-          <entry key="jsp" value="175" />
-          <entry key="xml" value="34" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="CSS" value="68" />
-          <entry key="JSP" value="175" />
-          <entry key="JavaScript" value="29" />
-          <entry key="XML" value="34" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/monitor_index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="121" column="37" lean-forward="true" selection-start-line="121" selection-start-column="37" selection-end-line="121" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/js/contentJS/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="645" column="13" lean-forward="true" selection-start-line="645" selection-start-column="13" selection-end-line="645" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/css/contentCSS/bootstrapindex.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2979">
-              <caret line="162" column="14" lean-forward="true" selection-start-line="162" selection-start-column="14" selection-end-line="162" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Jsp File" />
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>min</find>
-      <find>饼状</find>
-      <find>h2</find>
-      <find>chart</find>
-      <find>fontSize: &quot;10&quot;</find>
-    </findStrings>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/web/index.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/web/monitor_index.jsp" />
-        <option value="$PROJECT_DIR$/web/css/contentCSS/bootstrapindex.css" />
-        <option value="$PROJECT_DIR$/web/js/contentJS/index.js" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -138,93 +161,46 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="15" />
-    <option name="y" value="15" />
-    <option name="width" value="1810" />
-    <option name="height" value="1055" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Monitor_Center1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Monitor_Center1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Monitor_Center1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Monitor_Center1" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Monitor_Center1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Monitor_Center1" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Monitor_Center1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Monitor_Center1" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="contentCSS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Monitor_Center1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Monitor_Center1" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Monitor_Center1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Monitor_Center1" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="contentJS" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectId" id="28Hx377DHyCubtDWNlMyhnR5GBe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1627377416009" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1628654251391" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../others/south-electric/springboottest" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15378611" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\kcb\Monitor_Center\Monitor_Center1\web" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\kcb\Monitor_Center\Monitor_Center1\web" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\kcb\Monitor_Center\Monitor_Center1\web" />
+      <recent name="D:\kcb\Monitor_Center\Monitor_Center1\web\js\contentJS" />
+      <recent name="D:\kcb\Monitor_Center\Monitor_Center1\web\js" />
+      <recent name="D:\kcb\Monitor_Center\Monitor_Center1\web\layui" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 8.5.401" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.401" ALTERNATIVE_JRE_ENABLED="false">
@@ -240,11 +216,11 @@
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_401_Monitor_Center1" />
       </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="58061" />
       </RunnerSettings>
@@ -311,102 +287,108 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627366289130</updated>
-      <workItem from="1627366294287" duration="10320000" />
+      <workItem from="1627366294287" duration="15699000" />
+      <workItem from="1627434875271" duration="7142000" />
+      <workItem from="1628647877384" duration="6301000" />
+      <workItem from="1628668565614" duration="827000" />
+      <workItem from="1628671801171" duration="2050000" />
+      <workItem from="1628838137293" duration="54000" />
+      <workItem from="1629081950342" duration="71000" />
+      <workItem from="1629083767929" duration="657000" />
+      <workItem from="1634180751263" duration="57000" />
+      <workItem from="1650887111602" duration="641000" />
+      <workItem from="1663775264470" duration="35000" />
+      <workItem from="1664451907923" duration="200000" />
+      <workItem from="1664507070562" duration="173000" />
+      <workItem from="1664523936954" duration="4106000" />
+      <workItem from="1664538233675" duration="259000" />
+      <workItem from="1664628789402" duration="2861000" />
+      <workItem from="1664712831128" duration="30000" />
+      <workItem from="1666764423971" duration="1475000" />
+      <workItem from="1666770299114" duration="506000" />
+      <workItem from="1668947365277" duration="1061000" />
+      <workItem from="1668950693129" duration="647000" />
+      <workItem from="1668995651710" duration="64000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10320000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <layout>
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="设计器" />
-      <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16085792" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Application Servers" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="调试" visible="true" weight="0.23324022" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="调色板" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/bootstrap/js/bootstrap.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/bootstrapindex.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="193" column="7" lean-forward="true" selection-start-line="193" selection-start-column="7" selection-end-line="193" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/contentJS/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="645" column="13" lean-forward="true" selection-start-line="645" selection-start-column="13" selection-end-line="645" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/monitor_index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="121" column="37" lean-forward="true" selection-start-line="121" selection-start-column="37" selection-end-line="121" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/contentCSS/bootstrapindex.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2979">
-          <caret line="162" column="14" lean-forward="true" selection-start-line="162" selection-start-column="14" selection-end-line="162" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="542" y="285" key="#Tomcat_Server" timestamp="1664629381428">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="542" y="285" key="#Tomcat_Server/-2240.-118.1493.893/0.0.1536.816@0.0.1536.816" timestamp="1664629381428" />
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1666770366245">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2240.-118.1493.893/0.0.1536.816@0.0.1536.816" timestamp="1666770366245" />
+    <state x="543" y="183" key="FileChooserDialogImpl" timestamp="1664629377931">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="543" y="183" key="FileChooserDialogImpl/-2240.-118.1493.893/0.0.1536.816@0.0.1536.816" timestamp="1664629377931" />
+    <state x="528" y="198" key="FileChooserDialogImpl/0.0.1493.885@0.0.1493.885" timestamp="1663775297742" />
+    <state width="1024" height="170" key="GridCell.Tab.0.bottom" timestamp="1664633997860">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="170" key="GridCell.Tab.0.bottom/-2240.-118.1493.893/0.0.1536.816@0.0.1536.816" timestamp="1664633997860" />
+    <state width="1024" height="170" key="GridCell.Tab.0.center" timestamp="1664633997860">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="170" key="GridCell.Tab.0.center/-2240.-118.1493.893/0.0.1536.816@0.0.1536.816" timestamp="1664633997860" />
+    <state width="1024" height="170" key="GridCell.Tab.0.left" timestamp="1664633997860">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="170" key="GridCell.Tab.0.left/-2240.-118.1493.893/0.0.1536.816@0.0.1536.816" timestamp="1664633997860" />
+    <state width="1024" height="170" key="GridCell.Tab.0.right" timestamp="1664633997860">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="170" key="GridCell.Tab.0.right/-2240.-118.1493.893/0.0.1536.816@0.0.1536.816" timestamp="1664633997860" />
+    <state width="1024" height="170" key="GridCell.Tab.1.bottom" timestamp="1664633997860">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="170" key="GridCell.Tab.1.bottom/-2240.-118.1493.893/0.0.1536.816@0.0.1536.816" timestamp="1664633997860" />
+    <state width="1024" height="170" key="GridCell.Tab.1.center" timestamp="1664633997860">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="170" key="GridCell.Tab.1.center/-2240.-118.1493.893/0.0.1536.816@0.0.1536.816" timestamp="1664633997860" />
+    <state width="1024" height="170" key="GridCell.Tab.1.left" timestamp="1664633997860">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="170" key="GridCell.Tab.1.left/-2240.-118.1493.893/0.0.1536.816@0.0.1536.816" timestamp="1664633997860" />
+    <state width="1024" height="170" key="GridCell.Tab.1.right" timestamp="1664633997860">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="170" key="GridCell.Tab.1.right/-2240.-118.1493.893/0.0.1536.816@0.0.1536.816" timestamp="1664633997860" />
+    <state width="1024" height="170" key="GridCell.Tab.2.bottom" timestamp="1664633997860">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="170" key="GridCell.Tab.2.bottom/-2240.-118.1493.893/0.0.1536.816@0.0.1536.816" timestamp="1664633997860" />
+    <state width="1024" height="170" key="GridCell.Tab.2.center" timestamp="1664633997860">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="170" key="GridCell.Tab.2.center/-2240.-118.1493.893/0.0.1536.816@0.0.1536.816" timestamp="1664633997860" />
+    <state width="1024" height="170" key="GridCell.Tab.2.left" timestamp="1664633997860">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="170" key="GridCell.Tab.2.left/-2240.-118.1493.893/0.0.1536.816@0.0.1536.816" timestamp="1664633997860" />
+    <state width="1024" height="170" key="GridCell.Tab.2.right" timestamp="1664633997860">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="170" key="GridCell.Tab.2.right/-2240.-118.1493.893/0.0.1536.816@0.0.1536.816" timestamp="1664633997860" />
   </component>
   <component name="masterDetails">
     <states>
@@ -466,6 +448,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

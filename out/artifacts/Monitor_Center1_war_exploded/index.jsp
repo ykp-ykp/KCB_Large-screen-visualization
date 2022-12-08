@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  <a href="monitor_index.jsp">跳转到</a>
+  <a href="Controller">跳转到</a>
   </body>
 </html>

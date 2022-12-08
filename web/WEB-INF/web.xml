@@ -6,7 +6,18 @@
 
 
     <welcome-file-list>
-        <welcome-file>monitor_index.jsp</welcome-file>
+        <welcome-file>login.jsp</welcome-file>
     </welcome-file-list>
+
+
+    <!--<servlet>-->
+        <!--<servlet-name>Login</servlet-name>-->
+        <!--<servlet-class>main.java.com.ckb.Controller</servlet-class>   &lt;!&ndash;Servlet的类&ndash;&gt;-->
+    <!--</servlet>-->
+
+    <!--<servlet-mapping>-->
+        <!--<servlet-name>Login</servlet-name>-->
+        <!--<url-pattern>/Controller</url-pattern>                   &lt;!&ndash;映射的url路径 &ndash;&gt;-->
+    <!--</servlet-mapping>-->
 
 </web-app>
